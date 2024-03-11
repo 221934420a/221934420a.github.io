@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Display time </title>
+</head>
+<body>
+  <h1>current time:</h1>
+  <p id="current-time"></p>
+
+  <script>
+    // 获取当前时间
+    function getCurrentTime() {
+      var currentTime = new Date();
+      var hours = currentTime.getHours();
+      var minutes = currentTime.getMinutes();
+      var seconds = currentTime.getSeconds();
+      
+      // 确保数字以两位数形式显示
+      minutes = (minutes < 10 ? "0" : "") + minutes;
+      seconds = (seconds < 10 ? "0" : "") + seconds;
+
+      // 将时间显示在页面上
+      var currentTimeString = hours + ":" + minutes + ":" + seconds;
+      document.getElementById("current-time").textContent = currentTimeString;
+    }
+
+    // 每秒更新一次时间
+    setInterval(getCurrentTime, 1000);
+
+    // 页面加载时获取并显示当前时间
+    getCurrentTime();
+  </script>
+</body>
+</html>
