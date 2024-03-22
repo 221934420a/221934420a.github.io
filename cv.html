@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.min.js"></script>
+</head>
+<body>
+    <div id="pdfViewer"></div>
+    <iframe src="joeffrey wong CV.pdf" width="100%" height="1000px"></iframe>
+</body>
+<script>
+    // use pdf.js to render PDF file
+    const pdfUrl = 'your-cv.pdf'; 
+    pdfjsLib.getDocument(pdfUrl).promise.then(function(pdf) {
+        pdf.getPage(1).then(function(page) {
+            const viewport = page.getViewport({ scale: 1 });
+            const canvas = document.createElement('canvas');
+            canvas.style.display = 'block';
+            const context = canvas.getContext('2d');
+            canvas.height = viewport.height;
+            canvas.width = viewport.width;
+            document.getElementById('pdfViewer').appendChild(canvas);
+            page.render({ canvasContext: context, viewport: viewport });
+        });
+    });
+</script>
+
+</html>
