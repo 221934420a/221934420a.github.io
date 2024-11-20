@@ -8,10 +8,30 @@
         <language>en</language>
         <lastBuildDate>Mon, 18 Nov 2024 23:23:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/cv/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>CV</title>
-        <link>http://localhost:1313/en/posts/cv/cv/</link>
+        <link>http://localhost:1313/en/en/posts/cv/cv/</link>
         <pubDate>Mon, 18 Nov 2024 23:23:28 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/posts/cv/cv/</guid>
+        <guid>http://localhost:1313/en/en/posts/cv/cv/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/221934420a/221934420a.github.io/blob/master/assets/CV%20en/JOEFFREY_WONG.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Download CV&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CV</title>
+        <link>http://localhost:1313/en/ja/posts/cv/cv/</link>
+        <pubDate>Mon, 18 Nov 2024 23:23:28 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/ja/posts/cv/cv/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/221934420a/221934420a.github.io/blob/master/assets/CV%20ja/Joeffrey_Wong.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Download CV&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CV</title>
+        <link>http://localhost:1313/en/zh-hk/posts/cv/cv/</link>
+        <pubDate>Mon, 18 Nov 2024 23:23:28 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/zh-hk/posts/cv/cv/</guid>
         <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/221934420a/221934420a.github.io/blob/master/assets/CV%20en/JOEFFREY_WONG.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Download CV&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -8,10 +8,35 @@
         <language>en</language>
         <lastBuildDate>Mon, 18 Nov 2024 18:56:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Post</title>
-        <link>http://localhost:1313/en/posts/my-first-post/my-first-post/</link>
+        <link>http://localhost:1313/en/en/posts/my-first-post/my-first-post/</link>
         <pubDate>Mon, 18 Nov 2024 18:56:28 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/posts/my-first-post/my-first-post/</guid>
+        <guid>http://localhost:1313/en/en/posts/my-first-post/my-first-post/</guid>
+        <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello Hugo
+&lt;/h1&gt;&lt;p&gt;This is my first time using Hugo and site generator.
+I have made my Website before, but this is just HTML Hello World level. So I decide to use the coolest tool to do. I hope they can act on a name card.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>My First Post</title>
+        <link>http://localhost:1313/en/ja/posts/my-first-post/my-first-post/</link>
+        <pubDate>Mon, 18 Nov 2024 18:56:28 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/ja/posts/my-first-post/my-first-post/</guid>
+        <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello Hugo
+&lt;/h1&gt;&lt;p&gt;初めまして。i18nを試しています。&lt;/p&gt;
+&lt;p&gt;This is my first time using Hugo and site generator.
+I have made my Website before, but this is just HTML Hello World level. So I decide to use the coolest tool to do. I hope they can act on a name card.&lt;/p&gt;
+&lt;p&gt;最近夢中していること↓&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;絢辻さんは裏表のない素敵な人です&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>My First Post</title>
+        <link>http://localhost:1313/en/zh-hk/posts/my-first-post/my-first-post/</link>
+        <pubDate>Mon, 18 Nov 2024 18:56:28 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/zh-hk/posts/my-first-post/my-first-post/</guid>
         <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello Hugo
 &lt;/h1&gt;&lt;p&gt;This is my first time using Hugo and site generator.
 I have made my Website before, but this is just HTML Hello World level. So I decide to use the coolest tool to do. I hope they can act on a name card.&lt;/p&gt;
