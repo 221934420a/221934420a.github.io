@@ -38,20 +38,23 @@
                 href="http://localhost:1313/en/categories/cv/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/en/posts/cv/cv/</loc>
+    <loc>http://localhost:1313/en/posts/cv/cv/</loc>
     <lastmod>2024-11-18T23:23:28+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/ja/posts/cv/cv/</loc>
-    <lastmod>2024-11-18T23:23:28+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/zh-hk/posts/cv/cv/</loc>
-    <lastmod>2024-11-18T23:23:28+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/en/</loc>
-    <lastmod>2024-11-18T23:23:28+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/ja/</loc>
-    <lastmod>2024-11-18T23:23:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/posts/cv/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/posts/cv/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/cv/cv/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-11-18T23:23:28+00:00</lastmod>
@@ -71,17 +74,41 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/zh-hk/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-11-18T23:23:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/"
+                />
   </url><url>
-    <loc>http://localhost:1313/en/en/posts/my-first-post/my-first-post/</loc>
+    <loc>http://localhost:1313/en/posts/my-first-post/my-first-post/</loc>
     <lastmod>2024-11-18T18:56:28+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/ja/posts/my-first-post/my-first-post/</loc>
-    <lastmod>2024-11-18T18:56:28+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/zh-hk/posts/my-first-post/my-first-post/</loc>
-    <lastmod>2024-11-18T18:56:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/posts/my-first-post/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/posts/my-first-post/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/my-first-post/my-first-post/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/categories/posts/</loc>
     <lastmod>2024-11-18T18:56:28+00:00</lastmod>
