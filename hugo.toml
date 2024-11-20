@@ -4,6 +4,9 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Joeffrey Wong'
 sectionPagesMenu = 'main'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
 
 [menu]
     [[menu.social]]  # New menu named "social"
@@ -49,3 +52,19 @@ subtitle = "Trying to make my personal website."
 enabled = true
 local = true
 src = "img/UK_traffic_sign_625.1.svg.png"
+
+[languages]
+    [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 10
+
+    [languages.zh-hk]
+    contentDir = 'content/zh-hk'
+    languageName = 'Chinese (Traditional) (Hong Kong)'
+    weight = 10
+
+    [languages.ja]
+    contentDir = 'content/ja'
+    languageName = 'Japanese'
+    weight = 10
