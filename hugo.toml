@@ -46,7 +46,7 @@ customText = ''
 
 [params.sidebar]
 emoji = ""
-subtitle = "Trying to make my personal website."
+subtitle = "Hongkonger, now based in the UK and Looking for software developer job. Trying to make my personal website."
 
 [params.sidebar.avatar]
 enabled = true
