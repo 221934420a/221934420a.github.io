@@ -8,6 +8,7 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 
+
 [menu]
     [[menu.social]]  # New menu named "social"
     name = "LinkedIn"  # Link name (displayed text)

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ja/categories/</loc>
-    <lastmod>2024-11-18T23:23:28+00:00</lastmod>
+    <lastmod>2024-11-25T22:31:44+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +18,73 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/</loc>
+    <lastmod>2024-11-25T22:31:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/posts/</loc>
+    <lastmod>2024-11-25T22:31:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/categories/posts/</loc>
+    <lastmod>2024-11-25T22:31:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/categories/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/posts/test-for-image/test-for-image/</loc>
+    <lastmod>2024-11-25T22:31:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/test-for-image/test-for-image/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/posts/test-for-image/test-for-image/"
                 />
   </url><url>
     <loc>http://localhost:1313/ja/categories/cv/</loc>
@@ -56,42 +123,6 @@
                 href="http://localhost:1313/ja/posts/cv/cv/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/</loc>
-    <lastmod>2024-11-18T23:23:28+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="http://localhost:1313/zh-hk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ja/posts/</loc>
-    <lastmod>2024-11-18T23:23:28+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="http://localhost:1313/zh-hk/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/posts/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ja/posts/my-first-post/my-first-post/</loc>
     <lastmod>2024-11-18T18:56:28+00:00</lastmod>
     <xhtml:link
@@ -108,24 +139,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/posts/my-first-post/my-first-post/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ja/categories/posts/</loc>
-    <lastmod>2024-11-18T18:56:28+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="http://localhost:1313/zh-hk/categories/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/posts/"
                 />
   </url><url>
     <loc>http://localhost:1313/ja/tags/</loc>
