@@ -2,6 +2,7 @@
 date = '2024-11-25T22:31:44Z'
 draft = true
 title = 'Test for Image'
+categories = ['Posts','image'] 
 image = "job_it_dokata.png"
 +++
 
