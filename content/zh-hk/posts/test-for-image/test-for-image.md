@@ -8,4 +8,3 @@ image = "../../../content/en/Posts/test-for-image/job_it_dokata.png"
 
 ![IT土方](../../../en/Posts/test-for-image/job_it_dokata.png)   
 today's update   
-更新とgithubのcontributionを稼ぐためです。
